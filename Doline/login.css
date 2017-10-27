@@ -1,0 +1,85 @@
+@charset "utf-8";
+/* CSS Document */
+
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+	background-color: #2A2A2A;
+}
+.loginPage {
+	width:100%;
+	max-width: 500px;
+	position: absolute;
+
+}
+.bgImage {
+	max-width: 100%;
+    max-height: 100%;
+	position: absolute;
+	top: 0;
+	left: 0;
+}
+
+#bgImage_1 {
+	
+}
+#bgImage_3 {
+
+}
+
+#bgImage_2 {
+
+}
+#logoName {
+	font-family: "微软雅黑";
+	font-size: 40px;
+	font-size-adjust: auto;
+	text-align: center;
+	color: azure;
+	position: relative;
+	margin: auto;
+	margin-top: 35%;
+	
+}
+p {
+	font-family: "微软雅黑";
+	text-align: center;
+	color: azure;
+	position: relative;
+	color: azure;
+	font-size: 16px;
+	font-size-adjust: auto;
+}
+
+.btSet {
+	font-family: "微软雅黑";
+	text-align: center;
+	color: azure;
+	position: relative;
+	color: azure;
+	font-size: 16px;
+	font-size-adjust: auto;
+	width: 30%;
+	height: 10%;
+	border: hidden;
+	border-radius:4px; 
+	background-color: #0CC7C4;
+	padding: 4px;
+	margin-left: 3%;
+	margin-right: 3%;
+	display: inline-block;
+	
+}
+a{text-decoration: none}
+.btSet:hover{
+	background-color: chocolate;
+}
+#subButton {
+	width: 100%;
+	margin: auto;
+	margin-top: 95%;
+	position: relative;
+	text-align: center;
+}
